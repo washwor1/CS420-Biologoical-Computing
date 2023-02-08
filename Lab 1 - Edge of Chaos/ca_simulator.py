@@ -32,7 +32,7 @@ class CASimulator():
         f = open(self.fn, "w")
 
         # TODO: Change to your name here!
-        f.write("Your Name\n")
+        f.write("Jay Ashworth\n")
         f.write("Wrap:,true\n")
         f.write("K(states):," + str(self.num_states) + "\n")
         f.write("Radius:," + str(self.radius) + "\n")
