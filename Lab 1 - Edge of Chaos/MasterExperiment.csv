@@ -7,7 +7,7 @@ random seed:,1675818974,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,0,,,,,,,
-Rule:,3.43134E+11,,,,,,,
+Rule:,3.43E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.981589642,2.075869297,,
 1,12,3,0.984,0.846153846,2.014509866,2.133937566,,
@@ -25,7 +25,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,1,,,,,,,
-Rule:,3.34334E+11,,,,,,,
+Rule:,3.34E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.956639463,2.038159682,,
 1,3,3,0.912,0.846153846,2.133576089,2.038159682,,
@@ -43,7 +43,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,2,,,,,,,
-Rule:,1.32432E+11,,,,,,,
+Rule:,1.32E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.898659161,2.045841641,,
 1,9,3,0.912,0.846153846,2.163253384,2.192005835,,
@@ -61,7 +61,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,3,,,,,,,
-Rule:,2.23323E+11,,,,,,,
+Rule:,2.23E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.530148336,2.038159682,,
 1,6,3,0.84,0.846153846,1.963878369,2.16197818,,
@@ -79,7 +79,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,4,,,,,,,
-Rule:,4.23131E+11,,,,,,,
+Rule:,4.23E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.53024658,2.16197818,,
 1,10,2,0.944,0.846153846,1.707365888,2.257756064,,
@@ -97,7 +97,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,5,,,,,,,
-Rule:,1.42331E+11,,,,,,,
+Rule:,1.42E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.752537435,1.987773371,,
 1,3,3,0.912,0.846153846,1.908051819,1.987773371,,
@@ -108,14 +108,14 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 6,10,3,0.432,0.461538462,1.599822849,1.823026491,,
 7,8,3,0.312,0.384615385,1.140435933,1.488525295,,
 8,6,3,0.16,0.307692308,0.816894119,1.352030102,,
-9,9,?,0.08,0.230769231,0.505816138,1.145110414,,Emailed about it. 
+9,9,2,0.08,0.230769231,0.505816138,1.145110414,,Emailed about it. 
 10,1,1,0.056,0.153846154,0.344491046,0.773228349,,
 11,2,1,0.008,0.076923077,0.067221545,0.391243564,,
 12,12,1,0,0,0,0,,
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,6,,,,,,,
-Rule:,4.32211E+11,,,,,,,
+Rule:,4.32E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.937529217,2.199687795,,
 1,12,2,0.984,0.846153846,1.968479855,2.257756064,,
@@ -133,7 +133,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,7,,,,,,,
-Rule:,2.22132E+11,,,,,,,
+Rule:,2.22E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.701840525,2.038159682,,
 1,12,3,0.984,0.846153846,1.742181184,2.133937566,,
@@ -151,7 +151,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,8,,,,,,,
-Rule:,3.22412E+11,,,,,,,
+Rule:,3.22E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.930744334,2.199687795,,
 1,2,3,0.944,0.846153846,2.10155408,2.295465679,,
@@ -169,7 +169,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,9,,,,,,,
-Rule:,2.44144E+11,,,,,,,
+Rule:,2.44E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.595828739,1.987773371,,
 1,3,3,0.912,0.846153846,1.873297204,2.133937566,,
@@ -187,7 +187,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,10,,,,,,,
-Rule:,2.22344E+11,,,,,,,
+Rule:,2.22E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.908498148,1.88109476,,
 1,9,3,0.912,0.846153846,2.161140648,2.045841641,,
@@ -205,7 +205,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,11,,,,,,,
-Rule:,4.33443E+11,,,,,,,
+Rule:,4.33E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.429196257,1.738149333,,
 1,8,3,0.872,0.846153846,1.738539489,1.833927218,,
@@ -223,7 +223,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,12,,,,,,,
-Rule:,2.14124E+11,,,,,,,
+Rule:,2.14E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,2.022166878,2.199687795,,
 1,9,3,0.912,0.846153846,2.183428357,2.257756064,,
@@ -241,7 +241,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,13,,,,,,,
-Rule:,4.14423E+11,,,,,,,
+Rule:,4.14E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.888739743,2.16197818,,
 1,1,3,0.968,0.846153846,1.983910463,2.257756064,,
@@ -259,7 +259,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,14,,,,,,,
-Rule:,4.33113E+11,,,,,,,
+Rule:,4.33E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.674555139,2.075869297,,
 1,2,2,0.944,0.846153846,1.861495793,2.199687795,,
@@ -277,7 +277,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,15,,,,,,,
-Rule:,3.13423E+11,,,,,,,
+Rule:,3.13E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.804299116,2.038159682,,It is like a class 1 but not zero so I cant say its quiescient 
 1,8,4,0.872,0.846153846,2.066544868,2.16197818,,
@@ -295,7 +295,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,16,,,,,,,
-Rule:,4.21214E+11,,,,,,,
+Rule:,4.21E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.993593897,2.133937566,,
 1,2,2,0.944,0.846153846,2.105464477,2.133937566,,
@@ -304,7 +304,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 4,3,4,0.696,0.615384615,2.113644072,1.914341184,,
 5,9,4,0.616,0.538461538,1.830142683,1.614330835,,
 6,7,4,0.472,0.461538462,1.727356657,1.573402452,,
-7,4,?,0.352,0.384615385,1.279400821,1.238901257,,Similar to exp 5 step 9 with a repeating complex pattern. 
+7,4,2,0.352,0.384615385,1.279400821,1.238901257,,Similar to exp 5 step 9 with a repeating complex pattern. 
 8,6,1,0.2,0.307692308,0.893018257,1.140115679,,
 9,12,1,0.192,0.230769231,0.861402006,0.991264261,,
 10,1,1,0.168,0.153846154,0.752510139,0.773228349,,
@@ -313,7 +313,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,17,,,,,,,
-Rule:,2.42321E+11,,,,,,,
+Rule:,2.42E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.967241188,2.075869297,,
 1,3,3,0.912,0.846153846,2.188174453,2.199687795,,
@@ -331,7 +331,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,18,,,,,,,
-Rule:,4.22333E+11,,,,,,,
+Rule:,4.22E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.451166257,2.075869297,,
 1,9,3,0.912,0.846153846,1.760371766,2.199687795,,
@@ -349,7 +349,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,19,,,,,,,
-Rule:,1.33412E+11,,,,,,,
+Rule:,1.33E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,2.020074416,2.199687795,,
 1,2,3,0.944,0.846153846,2.162731987,2.257756064,,
@@ -367,7 +367,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,20,,,,,,,
-Rule:,1.41112E+11,,,,,,,
+Rule:,1.41E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.863761205,2.038159682,,
 1,5,4,0.848,0.846153846,2.17389952,2.133937566,,
@@ -385,7 +385,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,21,,,,,,,
-Rule:,2.24231E+11,,,,,,,
+Rule:,2.24E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.819172981,2.038159682,,
 1,6,2,0.84,0.846153846,1.874485351,2.038159682,,
@@ -403,7 +403,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,22,,,,,,,
-Rule:,2.22223E+11,,,,,,,
+Rule:,2.22E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.871274912,1.987773371,,
 1,11,2,0.968,0.846153846,1.979690264,2.133937566,,
@@ -421,7 +421,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,23,,,,,,,
-Rule:,3.43433E+11,,,,,,,
+Rule:,3.43E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.430662156,1.826245258,,
 1,10,4,0.944,0.846153846,1.601471903,1.922023143,,
@@ -439,7 +439,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,24,,,,,,,
-Rule:,1.43214E+11,,,,,,,
+Rule:,1.43E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.845953261,2.133937566,,
 1,11,2,0.968,0.846153846,1.9580499,2.257756064,,
@@ -457,7 +457,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,25,,,,,,,
-Rule:,4.21433E+11,,,,,,,
+Rule:,4.21E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.990080627,2.133937566,,
 1,1,2,0.968,0.846153846,2.057722956,2.133937566,,
@@ -475,7 +475,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,26,,,,,,,
-Rule:,2.44323E+11,,,,,,,
+Rule:,2.44E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,2.021036832,2.199687795,,
 1,8,3,0.872,0.846153846,2.225677517,2.257756064,,
@@ -493,7 +493,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,27,,,,,,,
-Rule:,4.21321E+11,,,,,,,
+Rule:,4.21E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.797077821,2.133937566,,
 1,8,3,0.872,0.846153846,2.036106894,2.192005835,,
@@ -511,7 +511,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,28,,,,,,,
-Rule:,4.21424E+11,,,,,,,
+Rule:,4.21E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,3,0.992,0.923076923,1.981937626,2.16197818,,
 1,4,3,0.872,0.846153846,2.278463035,2.257756064,,
@@ -529,7 +529,7 @@ Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 ,,,,,,,,
 ,,,,,,,,
 Experiment #:,29,,,,,,,
-Rule:,3.11113E+11,,,,,,,
+Rule:,3.11E+11,,,,,,,
 Step,Entry Zeroed,Class,Lambda,Lambda_t,H,H_t,Zeta,Observations
 0,-,2,0.992,0.923076923,1.822867104,2.038159682,,
 1,10,2,0.944,0.846153846,1.990292107,2.133937566,,
