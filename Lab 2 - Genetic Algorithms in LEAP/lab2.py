@@ -22,7 +22,10 @@ class Lab2Problem(ScalarProblem):
         super().__init__(maximize=True)
         
     def evaluate(self, ind):
-        return 0
+        res = 0
+        for i, val in enumerate(ind):
+            res += val * (2**(40-i-1))
+        return (res/((2**40)-1))**10
 
 
 if __name__ == '__main__':
